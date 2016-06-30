@@ -25,12 +25,12 @@
         "jackalope/jackalope-doctrine-dbal": "^1.1.2",
         "sylius/resource-bundle": "dev-symfony_3_compatibility",
         "symfony/framework-bundle": "^3.0",
-        "symfony-cmf/block-bundle": "~1.2",
-        "symfony-cmf/content-bundle": "~1.2",
-        "symfony-cmf/create-bundle": "~1.2",
-        "symfony-cmf/media-bundle": "~1.2",
+        "symfony-cmf/block-bundle": "~2.0",
+        "symfony-cmf/content-bundle": "~2.0",
+        "symfony-cmf/create-bundle": "~2.0",
+        "symfony-cmf/media-bundle": "~2.0",
         "symfony-cmf/menu-bundle": "~2.0",
-        "symfony-cmf/routing-bundle": "~1.2"
+        "symfony-cmf/routing-bundle": "~2.0"
     },
     "require-dev": {
         "liip/imagine-bundle": "^1.0",
